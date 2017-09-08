@@ -10,7 +10,8 @@ namespace Password_Aut
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 3;i++)
+            int wrong = 0;
+            for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("Enter the Username");
                 var user = Console.ReadLine();
@@ -19,16 +20,23 @@ namespace Password_Aut
 
                 if (pass == "letmein" && user == "root")
                 {
+                    wrong = 1;
                     Console.WriteLine("Username and password authenticated.. you may proceed");
                     break;
                 }
             }
+
+            if (wrong == 0)
             {
                 Console.WriteLine("too many incorrect login attempts! Try again later!");
             }
+        }
+            
+             
+            
             
 
 
-        }
+       
     }
 }

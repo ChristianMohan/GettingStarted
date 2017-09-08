@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteFood", "..\Favorite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Aut", "..\Password Aut\Password Aut.csproj", "{2693D4A1-10F2-4F06-B7B8-D83738B7F631}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Largest", "..\Find Largest\Find Largest.csproj", "{45740FF8-8270-437B-8320-97EE7FBE8E0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2693D4A1-10F2-4F06-B7B8-D83738B7F631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2693D4A1-10F2-4F06-B7B8-D83738B7F631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2693D4A1-10F2-4F06-B7B8-D83738B7F631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
