@@ -11,11 +11,26 @@ namespace Find_Largest
         static void Main(string[] args)
         {
             Console.WriteLine("Input the first number: ");
-            var n1 = Console.ReadLine();
+            int n1 = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Input the second number: ");
-            var n2 = Console.ReadLine();
+            int n2 = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Input the third number: ");
-            var n3 = Console.ReadLine();
+            int n3 = Convert.ToInt32(Console.ReadLine());
+
+            if(n1 > n2 && n1 > n3)
+            {
+                Console.WriteLine("the first number is the greatest");
+            }
+            if (n2 > n1 && n2 > n3)
+            {
+                Console.WriteLine("The second number is the greatest");
+            }
+            if (n3 > n2 && n3 > n1)
+            {
+                Console.WriteLine("The third number is the greatest");
+            }
         }
     }
 }

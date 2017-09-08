@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Largest.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Largest.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Largest.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.pdb
