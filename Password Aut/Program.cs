@@ -10,15 +10,23 @@ namespace Password_Aut
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the Username");
-            var user = Console.ReadLine();
-            Console.WriteLine("Enter the Password");
-            var pass = Console.ReadLine();
-
-            if (pass == "letmein" && user == "root")
+            for (int i = 0; i < 3;i++)
             {
-                Console.WriteLine("Username and password authenticated.. you may proceed");
+                Console.WriteLine("Enter the Username");
+                var user = Console.ReadLine();
+                Console.WriteLine("Enter the Password");
+                var pass = Console.ReadLine();
+
+                if (pass == "letmein" && user == "root")
+                {
+                    Console.WriteLine("Username and password authenticated.. you may proceed");
+                    break;
+                }
             }
+            {
+                Console.WriteLine("too many incorrect login attempts! Try again later!");
+            }
+            
 
 
         }
