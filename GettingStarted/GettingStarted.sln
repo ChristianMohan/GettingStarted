@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Largest", "..\Find Lar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade Match", "..\Grade Match\Grade Match.csproj", "{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromes", "Palindromes\Palindromes.csproj", "{B8E042A5-CBE8-4721-A1B5-F019FB5F5EB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E042A5-CBE8-4721-A1B5-F019FB5F5EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E042A5-CBE8-4721-A1B5-F019FB5F5EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E042A5-CBE8-4721-A1B5-F019FB5F5EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E042A5-CBE8-4721-A1B5-F019FB5F5EB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

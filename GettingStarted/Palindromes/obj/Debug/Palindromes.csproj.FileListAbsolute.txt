@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.pdb
