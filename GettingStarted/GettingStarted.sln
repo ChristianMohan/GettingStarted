@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Aut", "..\Password
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Largest", "..\Find Largest\Find Largest.csproj", "{45740FF8-8270-437B-8320-97EE7FBE8E0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grade Match", "..\Grade Match\Grade Match.csproj", "{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45740FF8-8270-437B-8320-97EE7FBE8E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11F036C-40CD-459E-AC1E-406E8BA6FE8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

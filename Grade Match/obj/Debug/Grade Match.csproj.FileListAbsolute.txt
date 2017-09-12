@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.pdb
