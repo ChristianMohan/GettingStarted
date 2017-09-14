@@ -10,22 +10,37 @@ namespace Palindromes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a phrase: ");
-                var word = Console.ReadLine();
-            char[] arr = word.ToCharArray();
-            Array.Reverse(arr);
-           // Console.WriteLine(arr);
-            char[] arr2 = word.ToCharArray();
-           // Console.WriteLine(arr2);
-            if (arr == arr2)
+
+            for (int con = 1; con >= 1; con = con)
             {
-                Console.WriteLine("/" + word + "/" + " is a palindrome");
-            }
-            else
-            {
-                Console.WriteLine("/" + word + "/" + " is not a palindrome");
+                Console.WriteLine("Enter a phrase: ");
+                String word = Console.ReadLine();
+                String words = word.ToLower();
+
+
+                words = words.Replace(" ", String.Empty);
+                words = words.Replace("?", String.Empty);
+                words = words.Replace(".", String.Empty);
+                words = words.Replace(",", String.Empty);
+                words = words.Replace("!", String.Empty);
+                words = words.Replace(":", String.Empty);
+                words = words.Replace(";", String.Empty);
+
+                char[] arr = words.ToCharArray();
+                Array.Reverse(arr);
+                String rev = new String(arr);
+
+
+                if (words == rev)
+
+                    Console.WriteLine(words + " is a palindrome");
+
+                else
+
+                    Console.WriteLine(word + " is not a palindrome");
             }
             Console.WriteLine("hello");
+
             
         }
     }

@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\bin\De
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\bin\Debug\Calculator.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
