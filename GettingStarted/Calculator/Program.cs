@@ -14,11 +14,24 @@ namespace Calculator
             var math1 = Console.ReadLine();
 
             math1 = math1.Replace(" ", String.Empty);
-            int equation = Convert.ToInt32(math1);
-            Console.WriteLine(math1);
-          //  int first = Convert.ToInt32(math1.Substring(0, 1));
-          //  int second = Convert.ToInt32(math1.Substring(1, 2));
 
+            if (math1.Substring(0, 2).Contains(" ")
+                {
+                int first = Convert.ToInt32(math1.Substring(0, 1));
+                else first = Convert.ToInt32(math1.Substring(0, 2));
+            }
+            if(math1.Substring(math1.Length - 2).Contains(" "))
+            {
+                int second = Convert.ToInt32(math1.Substring(2, 3));
+            }
+                
+         
+
+            Console.WriteLine(math1);
+              
+              int second = Convert.ToInt32(math1.Substring(2, 3));
+            int result = first + second;
+            Console.WriteLine("Result :" + result);
         }
     }
 }
