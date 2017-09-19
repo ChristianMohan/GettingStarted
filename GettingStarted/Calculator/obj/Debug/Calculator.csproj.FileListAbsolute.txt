@@ -4,3 +4,7 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\bin\De
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Calculator\obj\Debug\Calculator.pdb

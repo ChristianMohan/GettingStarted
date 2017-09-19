@@ -19,13 +19,13 @@ namespace Calculator
                 {
                 int first = Convert.ToInt32(math1.Substring(0, 1));
                 else first = Convert.ToInt32(math1.Substring(0, 2));
-            }
+                }
             if(math1.Substring(math1.Length - 2).Contains(" "))
             {
                 int second = Convert.ToInt32(math1.Substring(2, 3));
             }
                 
-         
+         //test
 
             Console.WriteLine(math1);
               
