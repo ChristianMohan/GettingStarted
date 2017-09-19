@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\bin\Debug\Perfect Number.exe.config
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\bin\Debug\Perfect Number.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\bin\Debug\Perfect Number.pdb
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\obj\Debug\Perfect Number.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\obj\Debug\Perfect Number.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\obj\Debug\Perfect Number.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Perfect Number\obj\Debug\Perfect Number.pdb

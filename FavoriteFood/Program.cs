@@ -13,8 +13,10 @@ namespace FavoriteFood
             Console.WriteLine("What is you favorite food?");
             var favFood = Console.ReadLine();
             {
-                if (favFood = "Pizza") ;
+                if (favFood == "Pizza")
+                {
                     Console.WriteLine("Wrong!  That is a terrible choice and you should feel bad about yourself.   Your favorite should be pizza!");
+                }
                 else
                     Console.WriteLine("Most excellent and correct!  Pizza is indeed one of the best foods ever put on this earth.");
             }

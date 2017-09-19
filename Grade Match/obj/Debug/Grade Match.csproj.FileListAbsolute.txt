@@ -3,3 +3,10 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Matc
 C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.pdb
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.exe.config
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\bin\Debug\Grade Match.pdb
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\Grade Match\obj\Debug\Grade Match.pdb

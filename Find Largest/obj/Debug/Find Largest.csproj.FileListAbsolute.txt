@@ -4,3 +4,10 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Larg
 C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Largest.exe.config
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Largest.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\bin\Debug\Find Largest.pdb
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\Find Largest\obj\Debug\Find Largest.pdb

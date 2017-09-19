@@ -4,3 +4,10 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\D
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.pdb
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\Christian\Documents\GitHub\GettingStarted\GettingStarted\Palindromes\obj\Debug\Palindromes.pdb
