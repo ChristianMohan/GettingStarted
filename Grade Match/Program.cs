@@ -10,29 +10,29 @@ namespace Grade_Match
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Input the grade");
+            System.Console.WriteLine("Input the grade");
 
-            var answer = Console.ReadLine();
+            var answer = System.Console.ReadLine();
 
             if(answer == "e")
             {
-                Console.WriteLine("You have chosen : excellent");
+                System.Console.WriteLine("You have chosen : excellent");
             }
             else if (answer == "v")
             {
-                Console.WriteLine("You have chosen : very good");
+                System.Console.WriteLine("You have chosen : very good");
             }
             else if (answer == "g")
             {
-                Console.WriteLine("You have chosen : good");
+                System.Console.WriteLine("You have chosen : good");
             }
             else if (answer == "a")
             {
-                Console.WriteLine("You have chosen : average");
+                System.Console.WriteLine("You have chosen : average");
             }
             else if (answer == "f")
             {
-                Console.WriteLine("You have chosen : fail");
+                System.Console.WriteLine("You have chosen : fail");
             }
 
         }

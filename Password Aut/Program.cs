@@ -13,22 +13,22 @@ namespace Password_Aut
             int wrong = 0;
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine("Enter the Username");
+                System.Console.WriteLine("Enter the Username");
                 var user = Console.ReadLine();
-                Console.WriteLine("Enter the Password");
+                System.Console.WriteLine("Enter the Password");
                 var pass = Console.ReadLine();
 
                 if (pass == "letmein" && user == "root")
                 {
                     wrong = 1;
-                    Console.WriteLine("Username and password authenticated.. you may proceed");
+                    System.Console.WriteLine("Username and password authenticated.. you may proceed");
                     break;
                 }
             }
 
             if (wrong == 0)
             {
-                Console.WriteLine("too many incorrect login attempts! Try again later!");
+                System.Console.WriteLine("too many incorrect login attempts! Try again later!");
             }
         }
             
